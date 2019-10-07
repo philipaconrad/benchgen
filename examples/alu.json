@@ -1,0 +1,54 @@
+{
+  "module_name": "alu",
+  "parameters": [
+    {
+      "name": "a",
+      "io_type": "input",
+      "type": "wire",
+      "idx_hi": 31,
+      "idx_lo": 0
+    },
+    {
+      "name": "b",
+      "io_type": "input",
+      "type": "wire",
+      "idx_hi": 31,
+      "idx_lo": 0
+    },
+    {
+      "name": "shamt",
+      "io_type": "input",
+      "type": "wire",
+      "idx_hi": 4,
+      "idx_lo": 0
+    },
+    {
+      "name": "op",
+      "io_type": "input",
+      "type": "wire",
+      "idx_hi": 3,
+      "idx_lo": 0
+    },
+    {
+      "name": "hi",
+      "io_type": "output",
+      "type": "reg",
+      "idx_hi": 31,
+      "idx_lo": 0
+    },
+    {
+      "name": "lo",
+      "io_type": "output",
+      "type": "reg",
+      "idx_hi": 31,
+      "idx_lo": 0
+    },
+    {
+      "name": "zero",
+      "io_type": "output",
+      "type": "wire",
+      "idx_hi": 0,
+      "idx_lo": 0
+    }
+  ]
+}
