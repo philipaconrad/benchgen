@@ -1,5 +1,5 @@
 # Testbench Generator for SystemVerilog Modules.
-# Copyright (c) Philip Conrad, 2019. All rights reserved.
+# Copyright (c) Philip Conrad, 2019.
 # Released under the MIT License.
 # Description:
 #   This script generates a SystemVerilog test bench based upon a module
