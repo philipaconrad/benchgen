@@ -1,0 +1,7 @@
+// Reset the flip-flop.
+F_1_1_0_0
+F_0_0_0_0
+// Store the value 0xA in the flip-flop.
+F_1_0_A_A
+F_0_0_0_A
+F_1_0_0_0
