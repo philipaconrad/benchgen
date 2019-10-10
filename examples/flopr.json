@@ -1,0 +1,33 @@
+{
+  "module_name": "flopr",
+  "parameters": [
+    {
+      "name": "clk",
+      "io_type": "input",
+      "type": "wire",
+      "idx_hi": 0,
+      "idx_lo": 0
+    },
+    {                    
+      "name": "reset",   
+      "io_type": "input",
+      "type": "wire",
+      "idx_hi": 0,
+      "idx_lo": 0
+    },
+    {
+      "name": "d",
+      "io_type": "input",
+      "type": "wire",
+      "idx_hi": 3,
+      "idx_lo": 0
+    },
+    {
+      "name": "q",
+      "io_type": "output",
+      "type": "reg",
+      "idx_hi": 3,
+      "idx_lo": 0
+    }
+  ]
+}
